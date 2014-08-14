@@ -1,0 +1,1 @@
+Go to Default.aspx and click the link

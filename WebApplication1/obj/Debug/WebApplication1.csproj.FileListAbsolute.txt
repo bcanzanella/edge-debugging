@@ -1,0 +1,13 @@
+C:\Users\brian\src\edge-web\WebApplication1\bin\edge\x86\edge.node
+C:\Users\brian\src\edge-web\WebApplication1\bin\edge\x64\edge.node
+C:\Users\brian\src\edge-web\WebApplication1\bin\edge\double_edge.js
+C:\Users\brian\src\edge-web\WebApplication1\bin\edge\edge.js
+C:\Users\brian\src\edge-web\WebApplication1\bin\edge\x64\node.dll
+C:\Users\brian\src\edge-web\WebApplication1\bin\edge\x86\node.dll
+C:\Users\brian\src\edge-web\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\brian\src\edge-web\WebApplication1\bin\WebApplication1.dll
+C:\Users\brian\src\edge-web\WebApplication1\bin\WebApplication1.pdb
+C:\Users\brian\src\edge-web\WebApplication1\bin\EdgeJs.dll
+C:\Users\brian\src\edge-web\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\brian\src\edge-web\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\brian\src\edge-web\WebApplication1\obj\Debug\WebApplication1.pdb
